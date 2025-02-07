@@ -8,22 +8,22 @@
 
 ## 🔨 Requisitos
 
-- Requisito 1
-- Requisito 2
+- Criar a estrutura da página em HTML seguindo o layout da imagem.
 
-	> 👀 **Dicas:**
-	> - Dica A sobre Req 2.
-	> - Dica B sobre Req 2.
+- Estilizar a página utilizando CSS, garantindo responsividade.
 
-- Requisito 3
-- ...
+- Utilizar flexbox ou grid para o posicionamento dos elementos.
+
+- Aplicar espaçamentos, fontes e cores semelhantes ao design original.
+
 
 ## 🔨 Desafio extra para quem quer ir além
 
-(Essa seção é opcional)
+- Adicionar animações sutis para melhorar a experiência do usuário.
 
-- Requisito extra 1. 
-- Requisito extra 2.
+- Criar uma versão totalmente responsiva que funcione bem em dispositivos móveis.
+
+- Implementar um hover nos botões para torná-los mais interativos.
 
 ## 🎨 Design Sugerido
 
@@ -37,15 +37,14 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 ### O que você irá praticar:
 
-#### React
+### HTML
 
-- Habilidade 1 do React
-- Habilidade 2
+- Estruturação semântica
 
-#### TailwindCSS
-
-- Habilidade 1 do TailwindCSS
+- Tags adequadas para textos e imagens
 
 ### Pré requisitos
 
 (coloque aqui se houver algum)
+
+
