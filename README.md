@@ -21,7 +21,7 @@
 
 - Adicionar animações sutis para melhorar a experiência do usuário.
 
-- Criar uma versão totalmente responsiva que funcione bem em dispositivos móveis.
+- Criar uma versão responsiva.
 
 - Implementar um hover nos botões para torná-los mais interativos.
 
