@@ -1,10 +1,13 @@
-# Nome do Mini Projeto
+# Home de imobiliária
 
-(um parágrafo explicando)
+Neste mini-projeto, você desenvolverá um banner para a página inicial de uma imobiliária, treinando suas habilidades em HTML e CSS. O foco é a construção de uma interface moderna e responsiva, seguindo boas práticas de estilização e estruturação de conteúdo.
+Além de aprimorar seus conhecimentos em layouts, a estrutura criada pode ser reutilizada para outros conceitos, como a home de um site de dentista, agência de viagens ou qualquer outro segmento.
 
 ## 🤓 Antes de começar
 
-(Coloque aqui algum setup / boilerplate e explicações se houver. Se não houver, essa seção pode ser apagada)
+Para rodar o projeto, basta abrir o arquivo index.html em qualquer navegador. Não é necessário instalar dependências adicionais, pois o projeto utiliza apenas HTML e CSS.
+
+Baixe a extensão `go live` para renderizar o projeto.
 
 ## 🔨 Requisitos
 
@@ -42,9 +45,4 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 - Estruturação semântica
 
 - Tags adequadas para textos e imagens
-
-### Pré requisitos
-
-(coloque aqui se houver algum)
-
 
