@@ -46,3 +46,11 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 - Tags adequadas para textos e imagens
 
+## CSS
+
+- Layout responsivo
+- Estilização avançada
+
+### Pré-requisitos
+
+Conhecimento em HTML e CSS
