@@ -1,4 +1,4 @@
-# Home de imobiliária
+# Banner de imobiliária
 
 Neste mini-projeto, você desenvolverá um banner para a página inicial de uma imobiliária, treinando suas habilidades em HTML e CSS.
 Além de aprimorar seus conhecimentos em layouts, a estrutura criada pode ser reutilizada para outros conceitos, como a home de um site de dentista, agência de viagens ou qualquer outro segmento.
